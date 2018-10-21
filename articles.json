@@ -1,0 +1,1 @@
+[{"id":1,"title":"title1","text":"Some article1","date":10,"author":"User1","comments":[{"id":2,"articleId":1,"text":"Some comment2","date":15,"author":"User3"},{"id":3,"articleId":1,"text":"Some comment3","date":20,"author":"User4"}]},{"id":2,"title":"titleeeee","text":"Some article2","date":12}]
